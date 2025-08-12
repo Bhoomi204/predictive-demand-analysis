@@ -1,0 +1,30 @@
+[
+  {
+    "product": "Smartphone",
+    "metal": "Cobalt",
+    "sale_year": 2023,
+    "warranty_years": 2,
+    "location": "Pune 411001"
+  },
+  {
+    "product": "Battery",
+    "metal": "Cobalt",
+    "sale_year": 2022,
+    "warranty_years": 3,
+    "location": "Delhi 110001"
+  },
+  {
+    "product": "TV",
+    "metal": "Copper",
+    "sale_year": 2023,
+    "warranty_years": 2,
+    "location": "Mumbai 400001"
+  },
+  {
+    "product": "Smartphone",
+    "metal": "Cobalt",
+    "sale_year": 2023,
+    "warranty_years": 2,
+    "location": "Delhi 110001"
+  }
+]
